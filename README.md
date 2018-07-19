@@ -26,3 +26,10 @@ offers plan for:
   - 3 tour guides
   - Sleep in provided tents
   - Difficulty: very hard
+
+
+## Made with
+* HTML5
+* CSS3
+
+Visit the [live preview](https://genesisgabiola.github.io/natours/) here.
